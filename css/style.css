@@ -26,6 +26,10 @@ header {
     text-align: center;
 }
 
+.title{
+    font-weight: bold;
+    color: #434853;
+}
 /* box */
 .box {
     text-align: center;
@@ -54,6 +58,7 @@ header {
     background-color: #EDF2F7;
    padding-left: 25px;
    padding-top: 25px;
+   color: #434853;
 }
 ul{
     list-style-type: none;
@@ -79,10 +84,11 @@ color: #434851;
     background-color: rgb(255, 255, 255);
     margin: 10px;
     padding: 25px;
+    border-radius: 15px;
 }
 .red{
-    color: #43CCB4;
-    border:1px solid #43CCB4;
+    color: #FF2424;
+    border:1px solid #FF2424;
 }
 .tex-through{
     text-decoration: line-through;
@@ -93,4 +99,19 @@ color: #434851;
 }
 .bblue{
 background-color: #09A9ED;
+}
+.bpurple{
+    background-color: #AB5DE6;
+    }
+    .bgreen{
+        background-color: #2CC6AB;
+    }
+    .borange{
+       background-color: #FF9B00; 
+    }
+    .bgreen-clear{
+        background-color: #A3D116;
+    }
+.bpink{
+    background-color: #EC4A9D;
 }
