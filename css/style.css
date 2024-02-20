@@ -10,11 +10,39 @@
 .container {
     width: 80%;
     margin: 0 auto;
-  }
+}
+
+.divider {
+    border: 2px solid white;
+}
+
 /* header */
-header{
+header {
     background-color: #EDF2F7;
 }
-.logo{
+
+.logo {
     text-align: center;
+}
+
+/* box */
+.box {
+    text-align: center;
+    margin-top: 15px;
+    background-color: #EDF2F7;
+    padding-top: 25px;
+}
+
+.form-control {
+    padding: 5px;
+    border-radius: 5px;
+    border-color: #EFF1F2;
+}
+
+.btn {
+    color: #ffffff;
+    background-color: #14AAF5;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: #14AAF5;
 }
