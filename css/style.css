@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, sans-serif;
 }
 
 /* COMMON */
@@ -31,6 +32,7 @@ header {
     margin-top: 15px;
     background-color: #EDF2F7;
     padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 .form-control {
@@ -45,4 +47,50 @@ header {
     padding: 5px;
     border-radius: 5px;
     border-color: #14AAF5;
+}
+/* list */
+.box-list{
+    text-align: justify;
+    background-color: #EDF2F7;
+   padding-left: 25px;
+   padding-top: 25px;
+}
+ul{
+    list-style-type: none;
+}
+.testo-principale{
+color: #434851;
+}
+.circle{
+        display: inline-block;
+        width: 25px;
+        height: 25px;
+        line-height: 25px;
+        border-radius: 50%;
+        text-align: center;
+        color: white;
+        vertical-align: middle;
+}
+.green{
+    color: #43CCB4;
+    border:1px solid #43CCB4;
+}
+.box-list-2{
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 25px;
+}
+.red{
+    color: #43CCB4;
+    border:1px solid #43CCB4;
+}
+.tex-through{
+    text-decoration: line-through;
+}
+.radius{
+    border-radius: 15px;
+    padding: 5px;
+}
+.bblue{
+background-color: #09A9ED;
 }
