@@ -12,3 +12,9 @@
     margin: 0 auto;
   }
 /* header */
+header{
+    background-color: #EDF2F7;
+}
+.logo{
+    text-align: center;
+}
